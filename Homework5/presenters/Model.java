@@ -1,9 +1,9 @@
-package OOP.Seminars.sem_5.presenters;
+package Homework5.presenters;
 
 import java.util.Collection;
 import java.util.Date;
 
-import OOP.Seminars.sem_5.models.Table;
+import Homework5.models.Table;
 
 public interface Model {
 

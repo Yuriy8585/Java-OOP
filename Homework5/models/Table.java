@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_5.models;
+package Homework5.models;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_5.models;
+package Homework5.models;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-import OOP.Seminars.sem_5.presenters.Model;
+import Homework5.presenters.Model;
 
 public class TableModel implements Model {
 

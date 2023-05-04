@@ -1,12 +1,12 @@
-package OOP.Seminars.sem_5.views;
+package Homework5.views;
 
 import java.util.Collection;
 import java.util.Date;
 
 
-import OOP.Seminars.sem_5.models.Table;
-import OOP.Seminars.sem_5.presenters.View;
-import OOP.Seminars.sem_5.presenters.ViewObserver;
+import Homework5.models.Table;
+import Homework5.presenters.View;
+import Homework5.presenters.ViewObserver;
 
 public class BookingView implements View {
 

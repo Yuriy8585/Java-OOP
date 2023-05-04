@@ -1,11 +1,11 @@
-package OOP.Seminars.sem_5;
+package Homework5;
 
 import java.util.Date;
 import java.util.Scanner;
 
-import OOP.Seminars.sem_5.models.TableModel;
-import OOP.Seminars.sem_5.presenters.BookingPresenter;
-import OOP.Seminars.sem_5.views.BookingView;
+import Homework5.models.TableModel;
+import Homework5.presenters.BookingPresenter;
+import Homework5.views.BookingView;
 
 public class Program {
 
